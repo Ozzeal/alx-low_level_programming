@@ -11,7 +11,7 @@
 int main(void)
 
 {
-	char let[26] = "abcdefghijklmnopqrstuvwsyz";
+	char let[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
 	for (i = 0; i < 26; i++)

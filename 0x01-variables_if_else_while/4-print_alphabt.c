@@ -13,7 +13,6 @@
 
 int main(void)
 {
-	char let[26] = "abcdefghijklmnopqrstuvwxy";
 	int i;
 
 	for (i = 97; i < 123; i++)
