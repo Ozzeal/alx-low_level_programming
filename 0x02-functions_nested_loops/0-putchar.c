@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
- * main - Entry Point
- * Description: 'program that prints to stdout'
- * Return: always 0
+ * main - Entry point
+ * Return: Always 0
  */
+
 int main(void)
+
 {
 	_putchar('-');
 	_putchar('p');
